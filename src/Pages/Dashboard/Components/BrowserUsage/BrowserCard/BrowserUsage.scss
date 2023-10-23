@@ -1,0 +1,34 @@
+.me-1, .mx-1 {
+    margin-right: 0.25rem !important;
+}
+
+.browser-stats {
+    min-height: 70px;
+    display: flex;
+
+    i {
+        font-size: 18px;
+        width: 45px;
+        height: 45px;
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        border-radius: 50%;
+    }
+}
+
+.mb-auto, .my-auto {
+    margin-bottom: auto !important;
+}
+
+.bg-purple-gradient {
+    background: linear-gradient(to bottom right, #8927ec 0%, #647DEE 100%) !important;
+    color: #fff !important;
+}
+
+.bg-info-gradient {
+    background: linear-gradient(to bottom right, #1e63c3 0%, #00f2fe 100%) !important;
+}
+.bg-secondary-gradient {
+    background: linear-gradient(to bottom right, #9070ff 0%, #ff5d9e 100%) !important;
+}
