@@ -1,6 +1,6 @@
 import React from "react";
 
-const MainCard = ({ title, value, percentage, iconClass, iconColor }) => {
+const MainCard = ({ title, value, percentage, iconClass, iconColor, icon }) => {
   return (
     <div className="col-lg-6 col-md-6 col-sm-12 col-xl-3">
       <div className="card overflow-hidden">
@@ -17,7 +17,7 @@ const MainCard = ({ title, value, percentage, iconClass, iconColor }) => {
             </div>
             <div className="col col-auto">
               <div className={`counter-icon box-shadow-primary brround ms-auto ${iconColor}`}>
-                <i className={iconClass + " text-white mb-5"}></i>
+                <i class={`${icon} text-white mb-5`}></i>
               </div>
             </div>
           </div>

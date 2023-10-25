@@ -1,0 +1,35 @@
+
+.chart-circle .chart-circle-sm{
+    top: 20px;
+    left: 0;
+    right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    bottom: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    line-height: 1;
+    width: 90px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.circularProgress {
+    width: 120px;
+    vertical-align: middle;
+}
+.text-white .mp-0 {
+    color: #fff !important; 
+    text-align: center;
+    font-size: 14px;
+}
+.CircularProgressbar .CircularProgressbar-text {
+    fill: #3e98c7;
+    font-size: 16px;
+    text-anchor: middle;
+}
+.lable-week{
+    font-size: 25px;
+    margin-bottom: 0;
+}

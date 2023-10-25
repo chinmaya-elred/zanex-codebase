@@ -1,0 +1,32 @@
+.img-card:before {
+    content: "";
+    position: absolute;
+    background: url('../../../../../assets/svg/circle.svg');
+    background-position: right;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+    opacity: 0.5;
+}
+.fa {
+    display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-size: 2em !important;
+}
+.bg-primary{
+    background-color: #6259ca !important;
+}
+.text-white .mb-0{
+  text-align: left;
+  font-size: 14px;
+}
+.mb-0-users {
+    display: flex;
+    justify-content: space-between;
+    font-size: 14px;
+    margin-top: 20px;
+}

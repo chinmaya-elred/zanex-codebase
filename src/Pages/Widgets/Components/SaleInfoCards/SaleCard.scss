@@ -1,0 +1,50 @@
+.media {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-align: start;
+    align-items: flex-start;
+}
+.media-body {
+    zoom: 1;
+    overflow: hidden;
+    width: auto;
+    -ms-flex: 1;
+    flex: 1;
+}
+.media-body, .media-left, .media-right {
+    display: block;
+    text-align: left;
+}
+.btn-blue {
+    color: #fff;
+    background-color: #467fcf;
+    border-color: #467fcf;
+}
+.small, small {
+    font-size: .875em;
+}
+.text-muted {
+    color: #76839a !important;
+}
+.media img {
+    width: 40px;
+    height: 40px;
+}
+h5, .h5 {
+    font-size: 1rem;
+}
+h4, .h4{
+    font-size: 1.1rem;
+}
+.text-blue {
+    color: #467fcf !important;
+}
+.button-text{
+    font-size: 10.4px;
+}
+.title-project{
+    font-size: 24px;
+}
+.desc-project{
+    font-size: 14px;
+}

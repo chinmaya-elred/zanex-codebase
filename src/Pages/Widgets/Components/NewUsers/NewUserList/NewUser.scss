@@ -1,0 +1,34 @@
+.card-body {
+    -ms-flex: 1 1 auto;
+    flex: 1 1 auto;
+    margin: 0;
+    position: relative;
+}
+.text-end {
+    text-align: right !important;
+}
+.mdi {
+    display: inline-block;
+    font: normal normal normal 24px/1 "Material Design Icons";
+    font-size: inherit;
+    text-rendering: auto;
+    line-height: inherit;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+.float-start {
+    float: left !important;
+}
+.text-primary-shadow {
+    text-shadow: 0 5px 10px rgba(98, 89, 202, 0.3);
+}
+.mb-0-users{
+    display: flex;
+    justify-content: space-between;
+}
+.icon-size {
+    font-size: 2rem !important;
+}
+.text-success-shadow {
+    text-shadow: 0 5px 10px rgba(19, 191, 166, 0.3) !important;
+}

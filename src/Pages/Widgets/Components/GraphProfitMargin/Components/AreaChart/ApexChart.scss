@@ -1,0 +1,15 @@
+.apexcharts-toolbar {
+  display: none;
+  visibility: hidden;
+}
+
+#chart {
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+  filter: drop-shadow(0px 4px 8px rgba(0, 0, 0, 0.1));
+}
+
+.apexcharts-canvas {
+  position: relative;
+  user-select: none;
+  filter: drop-shadow(-6px 12px 4px rgba(133, 67, 246, 0.5));
+}

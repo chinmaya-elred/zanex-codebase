@@ -1,0 +1,52 @@
+.fs-20 {
+    font-size: 20px !important;
+}
+.progress {
+    display: -ms-flexbox;
+    display: flex;
+    height: 1rem;
+    overflow: hidden;
+    font-size: 0.703125rem;
+    background-color: #ebecf5;
+    border-radius: 7px;
+    box-shadow: 0 5px 10px rgba(227, 228, 237, 0.3);
+    position: relative;
+}
+.progress-bar {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -ms-flex-pack: center;
+    justify-content: center;
+    color: #fff;
+    text-align: center;
+    white-space: nowrap;
+    border-radius: 7px;
+    transition: width 0.6s ease;
+}
+.bg-primary {
+   background: #6259ca !important;
+}
+.h-1 {
+    height: 0.25rem !important;
+}
+.w-70 {
+    width: 70% !important;
+}
+.w-60 {
+    width: 60% !important;
+}
+.bg-success {
+    background: #09ad95 !important;
+}
+.w-40 {
+    width: 40% !important;
+}
+.bg-info {
+    background: #45aaf2 !important;
+}
+.fw-normal {
+    font-weight: 400 !important;
+    font-size: 18px;
+}
