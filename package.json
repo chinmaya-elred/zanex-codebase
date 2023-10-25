@@ -5,6 +5,8 @@
   "dependencies": {
     "@fortawesome/fontawesome-free": "^6.4.2",
     "@fortawesome/react-fontawesome": "^0.2.0",
+    "@mdi/font": "^7.3.67",
+    "@mdi/js": "^7.3.67",
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
@@ -12,6 +14,7 @@
     "feather-icons": "^4.29.1",
     "feather-icons-react": "^0.6.2",
     "font-awesome": "^4.7.0",
+    "lightgallery": "^2.7.2",
     "react": "^18.2.0",
     "react-apexcharts": "^1.4.1",
     "react-bootstrap": "^2.9.1",
@@ -21,6 +24,7 @@
     "react-router-dom": "^6.17.0",
     "react-scripts": "5.0.1",
     "sass": "^1.69.4",
+    "typeface-roboto": "^1.1.13",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
